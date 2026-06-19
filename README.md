@@ -2,11 +2,11 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=320&color=0:0A0A0A,30:1A1A2E,60:C2410C,100:F59E0B&text=Zubair%20Muhammad&fontColor=ffffff&fontSize=68&fontAlignY=38&desc=Senior%20Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Team%20Lead&descAlignY=60&animation=fadeIn&fontAlign=30"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=320&color=0:0A0A0A,30:1A1A2E,60:C2410C,100:F59E0B&text=Zubair%20Muhammad&fontColor=ffffff&fontSize=56&fontAlignY=38&fontAlign=50&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Team%20Lead&descAlignY=60&animation=fadeIn"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=F59E0B&center=true&vCenter=true&width=1100&lines=Hey+There!+I'm+mZubair+Muhammad+🔥;Senior+Full+Stack+Developer+%26+Team+Lead;Python+Developer+%7C+AI+Engineer;MERN+%2B+MEAN+%2B+LAMP+Specialist;LLM+%2B+RAG+%2B+Chatbot+Developer;AWS+%2B+Docker+%2B+Kubernetes;Crafting+Intelligent+%26+Scalable+Systems"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=F59E0B&center=true&vCenter=true&width=1100&lines=Hey+There!+I'm+Zubair+Muhammad+🔥;Senior+Full+Stack+Developer+%26+Team+Lead;Python+Developer+%7C+AI+Engineer;MERN+%2B+MEAN+%2B+LAMP+Specialist;LLM+%2B+RAG+%2B+Chatbot+Developer;AWS+%2B+Docker+%2B+Kubernetes;Crafting+Intelligent+%26+Scalable+Systems"/>
 
 <br/><br/>
 
