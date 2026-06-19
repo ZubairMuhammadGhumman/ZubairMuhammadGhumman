@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=F59E0B&center=true&vCenter=true&width=1100&lines=Hey+There!+I'm+Zubair+Muhammad+🔥;Senior+Full+Stack+Developer+%26+Team+Lead;Python+Developer+%7C+AI+Engineer;MERN+%2B+MEAN+%2B+LAMP+Specialist;LLM+%2B+RAG+%2B+Chatbot+Developer;AWS+%2B+Docker+%2B+Kubernetes;Crafting+Intelligent+%26+Scalable+Systems"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=F59E0B&center=true&vCenter=true&width=1100&lines=Hey+There!+I'm+mZubair+Muhammad+🔥;Senior+Full+Stack+Developer+%26+Team+Lead;Python+Developer+%7C+AI+Engineer;MERN+%2B+MEAN+%2B+LAMP+Specialist;LLM+%2B+RAG+%2B+Chatbot+Developer;AWS+%2B+Docker+%2B+Kubernetes;Crafting+Intelligent+%26+Scalable+Systems"/>
 
 <br/><br/>
 
