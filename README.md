@@ -2,21 +2,21 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=320&color=0:0A0A0A,30:1A1A2E,60:C2410C,100:F59E0B&text=Zubair%20Muhammad&fontColor=ffffff&fontSize=56&fontAlignY=38&fontAlign=50&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Team%20Lead&descAlignY=60&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=320&color=0:0A0A0A,30:1A1A2E,60:C2410C,100:F59E0B&text=Zubair%20Muhammad&fontColor=ffffff&fontSize=56&fontAlignY=38&fontAlign=50&desc=Full%20Stack%20Developer&descAlignY=60&animation=fadeIn"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=F59E0B&center=true&vCenter=true&width=1100&lines=Hey+There!+I'm+Zubair+Muhammad+🔥;Senior+Full+Stack+Developer+%26+Team+Lead;Python+Developer+%7C+AI+Engineer;MERN+%2B+MEAN+%2B+LAMP+Specialist;LLM+%2B+RAG+%2B+Chatbot+Developer;AWS+%2B+Docker+%2B+Kubernetes;Crafting+Intelligent+%26+Scalable+Systems"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=F59E0B&center=true&vCenter=true&width=1100&lines=Hey+There!+I'm+Zubair+Muhammad+🔥;Full+Stack+Developer;Python+Developer;MERN+%2B+MEAN+%2B+LAMP+Specialist;LLM+%2B+RAG+%2B+Chatbot+Developer;AWS+%2B+Docker+%2B+Kubernetes;Crafting+Scalable+%26+Production-Ready+Systems"/>
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Full%20Stack%20Developer-1A1A2E?style=for-the-badge&logo=stackblitz&logoColor=F59E0B"/>
-<img src="https://img.shields.io/badge/AI%20Engineer-1A1A2E?style=for-the-badge&logo=openai&logoColor=00BCD4"/>
-<img src="https://img.shields.io/badge/Team%20Lead-1A1A2E?style=for-the-badge&logo=buffer&logoColor=F59E0B"/>
+<img src="https://img.shields.io/badge/Backend%20Developer-1A1A2E?style=for-the-badge&logo=node.js&logoColor=00BCD4"/>
+<img src="https://img.shields.io/badge/Cloud%20Developer-1A1A2E?style=for-the-badge&logo=amazonaws&logoColor=F59E0B"/>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&pause=3000&color=94A3B8&center=true&vCenter=true&width=800&lines=🔥+Crafting+scalable%2C+intelligent+%26+production-ready+systems+with+clean+architecture."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&pause=3000&color=94A3B8&center=true&vCenter=true&width=800&lines=🔥+Crafting+scalable%2C+secure+%26+production-ready+systems+with+clean+architecture."/>
 
 <img src="https://komarev.com/ghpvc/?username=tallalmansoor&style=for-the-badge&color=C2410C&label=PROFILE+VIEWS"/>
 
@@ -76,17 +76,17 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=14&pause=3000&color=F59E0B&center=false&vCenter=true&width=260&lines=%F0%9F%9A%80+WHO+AM+I"/>
 
-🔸 Senior Full Stack Developer & Team Lead<br/>
+🔸 Full Stack Developer<br/>
 🔸 9+ Years of Experience<br/>
 🔸 Expert in MERN, MEAN & LAMP Stacks<br/>
-🔸 Python Developer & AI Enthusiast<br/>
+🔸 Python Developer<br/>
 🔸 Chatbot & SaaS Solution Architect<br/>
 🔸 Clean Code & Innovation Advocate<br/><br/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=14&pause=3000&color=00BCD4&center=false&vCenter=true&width=260&lines=%E2%9A%A1+WHAT+I+BUILD"/>
 
 ▶ Full Stack Web Applications<br/>
-▶ AI Chatbots & LLM Systems<br/>
+▶ Chatbots & LLM Systems<br/>
 ▶ RESTful & GraphQL APIs<br/>
 ▶ SaaS Platforms & Microservices<br/>
 ▶ Cloud Native Infrastructure<br/>
@@ -98,7 +98,7 @@
 |---|---|
 | 🗂 Projects | **70+** |
 | ⚡ APIs Built | **100+** |
-| 🧠 AI Solutions | **25+** |
+| 💬 Chatbot Solutions | **25+** |
 | ⭐ Experience | **9+ Years** |
 | ☁️ Cloud | **AWS / Docker / K8s** |
 
@@ -143,7 +143,7 @@
 </td>
 <td bgcolor="#0F172A" align="center" width="33%">
 <img width="55" src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png"/><br/>
-<b>AI & Chatbots</b><br/>
+<b>Chatbot Systems</b><br/>
 <img src="https://img.shields.io/badge/95%25-F59E0B?style=flat-square&logoColor=black"/><br/>
 <img src="https://geps.dev/progress/95?successColor=F59E0B&emptyColor=1A1A2E"/>
 </td>
@@ -169,7 +169,7 @@
 </td>
 <td bgcolor="#0F172A" align="center">
 <img width="55" src="https://cdn-icons-png.flaticon.com/512/4140/4140048.png"/><br/>
-<b>Team Leadership</b><br/>
+<b>System Design</b><br/>
 <img src="https://img.shields.io/badge/98%25-F59E0B?style=flat-square&logoColor=black"/><br/>
 <img src="https://geps.dev/progress/98?successColor=F59E0B&emptyColor=1A1A2E"/>
 </td>
@@ -214,7 +214,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=280&section=footer&color=0:F59E0B,40:C2410C,70:1A1A2E,100:0A0A0A&text=Thanks%20For%20Visiting&fontColor=ffffff&fontSize=52&fontAlignY=45&desc=Let%27s+Build+Something+Extraordinary+Together&descAlignY=68&animation=fadeIn&reversal=true"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=F59E0B&center=true&vCenter=true&width=900&lines=Let%27s+Build+Something+Extraordinary+Together+🔥;AI+Powered+Systems+%7C+Cloud+Solutions;Available+For+Remote+Projects+%26+Collaborations"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=F59E0B&center=true&vCenter=true&width=900&lines=Let%27s+Build+Something+Extraordinary+Together+🔥;Scalable+Systems+%7C+Cloud+Solutions;Available+For+Remote+Projects+%26+Collaborations"/>
 
 <br/>
 
@@ -229,3 +229,4 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=15&pause=3000&color=F59E0B&center=true&vCenter=true&width=400&lines=%F0%9F%94%A5+Thanks+for+visiting+my+profile+%F0%9F%94%A5"/>
 
 </div>
+
