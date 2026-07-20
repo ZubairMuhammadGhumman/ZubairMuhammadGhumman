@@ -6,13 +6,14 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=F59E0B&center=true&vCenter=true&width=1100&lines=Hey+There!+I'm+Zubair+Muhammad+🔥;Full+Stack+Developer;React.js+%2B+Next.js+%2B+Angular;Node.js+%2B+NestJS+%2B+Express;MongoDB+%2B+PostgreSQL+%2B+MySQL;Shopify+%2B+WordPress+%2B+WooCommerce;Learning+Python+%2B+Django+%2B+FastAPI+%2B+AWS+%2B+Docker;Building+AI%2FLLM+Integrations+%2B+Chatbots"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=F59E0B&center=true&vCenter=true&width=1100&lines=Hey+There!+I'm+Zubair+Muhammad+🔥;Full+Stack+Developer;React.js+%2B+Next.js;Node.js+%2B+NestJS;Shopify+%2B+WordPress;MongoDB+%2B+PostgreSQL;Learning+Python+%2B+Django+%2B+FastAPI+%2B+AWS+%2B+Docker;Building+AI%2FLLM+Integrations+%2B+Chatbots"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Full%20Stack%20Developer-1A1A2E?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js%20%2F%20NestJS-1A1A2E?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
-<img src="https://img.shields.io/badge/Shopify%20%2F%20WordPress-1A1A2E?style=for-the-badge&logo=shopify&logoColor=95BF47"/>
+<img src="https://img.shields.io/badge/Full%20Stack%20Developer-1A1A2E?style=for-the-badge&logo=codefactor&logoColor=F59E0B"/>
+<img src="https://img.shields.io/badge/React.js%20%2F%20Next.js-1A1A2E?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.JS%20%2F%20Nest%20JS-1A1A2E?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
+<img src="https://img.shields.io/badge/Shopify%20%2F%20Wordpress-1A1A2E?style=for-the-badge&logo=shopify&logoColor=95BF47"/>
 
 <br/><br/>
 
@@ -72,11 +73,11 @@
 
 🔸 Full Stack Developer<br/>
 🔸 3.5 Years of Experience<br/>
-🔸 Frontend: React.js, Next.js, Angular, TypeScript<br/>
-🔸 Backend: Node.js, NestJS, Express.js<br/>
+🔸 Frontend: React js, Next js, Angular, TypeScript<br/>
+🔸 Backend: Node.JS, Nest JS, Express.js<br/>
 🔸 Databases: MongoDB, PostgreSQL, MySQL<br/>
-🔸 CMS & eCommerce: Shopify (Liquid), WordPress, WooCommerce<br/>
-🔸 Learning Python, Django, FastAPI, AWS, Docker, AI/LLM integrations, automation workflows, and chatbot development to build intelligent digital solutions.<br/><br/>
+🔸 CMS & eCommerce: Shopify (Liquid), Wordpress, WooCommerce<br/>
+🔸 Learning Python, Django, FastAPI, AWS, Docker, AI/LLM integrations, automation workflows, and chatbot development.<br/><br/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=14&pause=3000&color=00BCD4&center=false&vCenter=true&width=260&lines=%E2%9A%A1+WHAT+I+BUILD"/>
 
@@ -92,9 +93,9 @@
 | | |
 |---|---|
 | 🗂 Experience | **3.5 Years** |
-| ⚡ Main Stack | **MERN / NestJS / Next.js** |
+| ⚡ Main Stack | **React js / Next js / Node.JS / Nest JS** |
 | 🗄 Databases | **PostgreSQL / MongoDB / MySQL** |
-| 🛍 CMS / Store | **Shopify / WooCommerce** |
+| 🛍 CMS / Store | **Shopify / Wordpress** |
 | 🤖 Focus | **Full Stack + AI & Automation** |
 
 <br/>
@@ -160,7 +161,7 @@
 <tr>
 <td bgcolor="#0F172A" align="center">
 <img width="55" src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png"/><br/>
-<b>Shopify & WordPress</b><br/>
+<b>Shopify & Wordpress</b><br/>
 <img src="https://img.shields.io/badge/92%25-F59E0B?style=flat-square&logoColor=black"/><br/>
 <img src="https://geps.dev/progress/92?successColor=F59E0B&emptyColor=1A1A2E"/>
 </td>
